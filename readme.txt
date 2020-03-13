@@ -6,4 +6,4 @@ Git tracks changes of files.
 fuck sbt.
 zhende ta ma de shabi  cao.
 
-chi kui shi fu ge pi! sha bi!
+chi kui jue bu shi fu.
